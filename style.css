@@ -1,4 +1,4 @@
-*, *::before, *::after{
+*, *::before, *::after{/*alkapote*/
     box-sizing: border-box;
 }
 body{
